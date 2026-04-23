@@ -1,8 +1,8 @@
 import streamlit as st
 
-st.set_page_config(page_title="1000 Candi", page_icon="🛕", layout="wide")
+st.set_page_config(page_title="1000 Candi untuk Jimmie", page_icon="🛕", layout="wide")
 
-APP_PASSWORD = "candi123"
+APP_PASSWORD = "jimmieandhenry"
 
 
 def init_state():
