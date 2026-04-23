@@ -193,7 +193,7 @@ def render_final():
             <div class="count-big">1,000</div>
             <div class="count-small">candi selesai dibangun</div>
             <div class="temple-wall">{wall_html}</div>
-            <div class="footer-note">Be with me, ok.</div>
+            <div class="footer-note">This is for u, Jim. Hope you like it</div>
         </div>
         """,
         unsafe_allow_html=True,
